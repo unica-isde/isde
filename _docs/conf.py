@@ -17,7 +17,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Machine Learning'
+project = 'Industrial Software Development'
 author = 'PRALab'
 
 # -- General configuration ---------------------------------------------------
