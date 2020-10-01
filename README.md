@@ -1,7 +1,7 @@
 ## Industrial Software Development
 **Academic Year 2020-2021**
 
-**Instructors:** Dr. Luca Didaci, Dr. Battista Biggio
+**Instructors:** Prof. Luca Didaci, Prof. Battista Biggio
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
 
