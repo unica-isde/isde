@@ -9,4 +9,8 @@
 
 **Website**: https://unica-isde.github.io/
 
-WIP
+**Slides**
+
+[Course Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf)
+
+[Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/02-Agile.pdf)
