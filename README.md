@@ -15,3 +15,5 @@
 Part 1 - [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf)
 
 Part 2 - [Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/02-Agile.pdf)
+
+Part 3 - [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/03-Python.pdf)
