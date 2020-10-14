@@ -7,3 +7,4 @@
    :numbered:
 
    tutorials/lab01
+   tutorials/lab02
