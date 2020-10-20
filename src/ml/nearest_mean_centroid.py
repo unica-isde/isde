@@ -3,6 +3,7 @@ from sklearn.metrics import pairwise_distances
 
 
 class NearestMeanCentroid():
+    """Class for ..."""
 
     def __init__(self):
         self._centroids = None
@@ -16,7 +17,22 @@ class NearestMeanCentroid():
     #     self._centroids = value
 
     def fit(self, xtr, ytr):
-        """Estimate the centroid for each class from the training data"""
+        """
+        Estimate the centroid for each class from the training data
+
+        Parameters
+        ----------
+        xtr
+            Training data
+
+        ytr
+            Labels
+
+        Returns
+        -------
+        Classifier with estimated centroids.
+
+        """
         labels = np.unique(ytr)
         self._centroids = np.zeros(shape=(labels.size, xtr.shape[1]))
 
@@ -26,7 +42,19 @@ class NearestMeanCentroid():
         return self
 
     def predict(self, xts):
+        """
+        Compute predictions on test data.
 
+        Parameters
+        ----------
+        xts
+            Test data
+
+        Returns
+        -------
+        Predicted labels for the test data.
+
+        """
         if self._centroids is None:
             raise ValueError("Centroids not set. Run fit(x,y) first!")
 
