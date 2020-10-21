@@ -1,1 +1,2 @@
-from .load_mnist import load_mnist_data
+from .data_loader import DataLoader
+from .data_loader_mnist import DataLoaderMNIST
