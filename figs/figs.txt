@@ -1,0 +1,1 @@
+This directory will contain figures stored by the programs in src.
