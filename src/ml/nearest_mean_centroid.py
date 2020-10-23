@@ -10,6 +10,14 @@ class NearestMeanCentroid():
 
     @property
     def centroids(self):
+        """
+        Centroids learnt by the NMC classifier.
+
+        Returns
+        -------
+        Centroids...
+
+        """
         return self._centroids
 
     # @centroids.setter
