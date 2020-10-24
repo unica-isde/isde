@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from data_loaders import DataLoader
+from ex1.data_loaders import DataLoader
 
 
 class DataLoaderMNIST(DataLoader):

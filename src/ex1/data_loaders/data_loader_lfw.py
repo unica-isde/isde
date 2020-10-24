@@ -1,6 +1,6 @@
 from sklearn.datasets import fetch_lfw_people
 
-from data_loaders import DataLoader
+from ex1.data_loaders import DataLoader
 
 
 class DataLoaderLFW(DataLoader):
@@ -25,6 +25,6 @@ class DataLoaderLFW(DataLoader):
     def load_data(self):
         dataset = fetch_lfw_people(min_faces_per_person=10)
         n_samples, self._height, self._width = dataset.images.shape
-        x = dataset.data
+        x = dataset.data / 255.0  # normalize data in [0, 1]
         y = dataset.target
         return x, y

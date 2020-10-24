@@ -1,9 +1,11 @@
 import numpy as np
-from matplotlib import pyplot as plt
-from utils import split_data, plot_ten_images, compute_ts_error
-from ml import NearestMeanCentroid
-from data_loaders import DataLoaderMNIST, DataLoaderLFW
-from data_perturb import DataPerturbUniform
+import matplotlib
+matplotlib.rcParams['text.usetex'] = True  # enable latex syntax in plots
+import matplotlib.pyplot as plt
+from ex1.utils import split_data, plot_ten_images, compute_ts_error
+from ex1.classifiers import NearestMeanCentroid
+from ex1.data_loaders import DataLoaderMNIST, DataLoaderLFW
+from ex1.data_perturb import DataPerturbUniform
 
 use_faces = False  # True to use LFW, False for MNIST digits
 
@@ -31,7 +33,7 @@ clf.fit(Xtr, ytr)
 
 # test on clean TS
 yc = clf.predict(Xts)
-test_error = compute_ts_error(yc, yts)
+compute_ts_error(yc, yts)  # prints test error
 
 # perturb data
 data_perturb = DataPerturbUniform()
@@ -39,7 +41,12 @@ xts_perturbed = data_perturb.perturb_data(Xts)
 
 # test on clean TS
 yc = clf.predict(xts_perturbed)
-test_error = compute_ts_error(yc, yts)
+compute_ts_error(yc, yts)  # prints test error
+
+# plot unperturbed test data
+plt.figure(figsize=(10, 6))
+plot_ten_images(Xts, w, h, titles)
+plt.savefig('../figs/examples.pdf')
 
 # plot the perturbed data
 titles = ['y: ' + str(i) for i in np.unique(y)]
@@ -47,7 +54,7 @@ plt.figure(figsize=(10, 6))
 plot_ten_images(xts_perturbed, w, h, titles)
 plt.savefig('../figs/examples_perturbed.pdf')
 
-k = np.linspace(0, 5, num=200)
+k = np.linspace(0, 5, num=100)
 test_error = np.zeros(shape=k.shape)
 
 for i in range(k.size):
@@ -60,4 +67,6 @@ for i in range(k.size):
 
 plt.figure()
 plt.plot(k, test_error)
-plt.show()
+plt.title('Test error')
+plt.xlabel(r'Perturbation size (K or $\sigma$)')
+plt.savefig('../figs/error_perturbed.pdf')

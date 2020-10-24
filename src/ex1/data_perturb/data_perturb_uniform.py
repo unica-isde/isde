@@ -1,6 +1,6 @@
 import numpy as np
 
-from data_perturb import DataPerturb
+from ex1.data_perturb import DataPerturb
 
 
 class DataPerturbUniform(DataPerturb):

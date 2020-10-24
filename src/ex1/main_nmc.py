@@ -1,8 +1,8 @@
 import numpy as np
 from matplotlib import pyplot as plt
-from utils import split_data, plot_ten_images, compute_ts_error
-from ml import NearestMeanCentroid
-from data_loaders import DataLoaderMNIST, DataLoaderLFW
+from ex1.utils import split_data, plot_ten_images, compute_ts_error
+from ex1.classifiers import NearestMeanCentroid
+from ex1.data_loaders import DataLoaderMNIST, DataLoaderLFW
 
 
 use_faces = True  # True to use LFW, False for MNIST digits
@@ -20,9 +20,9 @@ h = data_loader.height
 titles = ['y: ' + str(i) for i in np.unique(y)]
 
 # ... equivalent to:
-titles = []
-for i in np.unique(y):
-    titles.append('y: ' + str(i))
+# titles = []
+# for i in np.unique(y):
+#    titles.append('y: ' + str(i))
 
 plt.figure(figsize=(10, 6))
 plot_ten_images(x, w, h, titles)
