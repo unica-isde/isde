@@ -18,4 +18,6 @@ Part 2 - [Plan-driven and Agile Software Development](https://github.com/unica-i
 
 Part 3 - [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/03-Python.pdf)
 
-Part 4 - [Python - Programming Exercise](https://github.com/unica-isde/isde/blob/master/slides/04-Python-MNIST.pdf)
+Part 4 - [Python - Programming Exercise](https://github.com/unica-isde/isde/blob/master/slides/04-Python-MNIST.pdf) ([Extra1](https://github.com/unica-isde/isde/raw/master/programming-exercises/ISDe-programming-skills-01.pdf)) ([Extra2](https://github.com/unica-isde/isde/raw/master/programming-exercises/ISDe-programming-skills-02.pdf))
+
+Part 5 - [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/slides/05-Python-docstrings.pdf)
