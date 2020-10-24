@@ -5,7 +5,7 @@ from ex1.classifiers import NearestMeanCentroid
 from ex1.data_loaders import DataLoaderMNIST, DataLoaderLFW
 
 
-use_faces = True  # True to use LFW, False for MNIST digits
+use_faces = False  # True to use LFW, False for MNIST digits
 
 if use_faces is True:
     data_loader = DataLoaderLFW()
@@ -17,8 +17,7 @@ w = data_loader.width
 h = data_loader.height
 
 # list comprehension
-titles = ['y: ' + str(i) for i in np.unique(y)]
-
+titles = ['y: ' + str(i) for i in y]
 # ... equivalent to:
 # titles = []
 # for i in np.unique(y):

@@ -18,12 +18,6 @@ x, y = data_loader.load_data()
 w = data_loader.width
 h = data_loader.height
 
-# list comprehension
-titles = ['y: ' + str(i) for i in np.unique(y)]
-plt.figure(figsize=(10, 6))
-plot_ten_images(x, w, h, titles)
-plt.savefig('../figs/examples.pdf')
-
 # split data into TR/TS
 Xtr, ytr, Xts, yts = split_data(x, y, tr_fraction=0.6)
 
@@ -44,12 +38,12 @@ yc = clf.predict(xts_perturbed)
 compute_ts_error(yc, yts)  # prints test error
 
 # plot unperturbed test data
+titles = ['y: ' + str(i) for i in yts]
 plt.figure(figsize=(10, 6))
 plot_ten_images(Xts, w, h, titles)
 plt.savefig('../figs/examples.pdf')
 
 # plot the perturbed data
-titles = ['y: ' + str(i) for i in np.unique(y)]
 plt.figure(figsize=(10, 6))
 plot_ten_images(xts_perturbed, w, h, titles)
 plt.savefig('../figs/examples_perturbed.pdf')
