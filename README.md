@@ -21,3 +21,4 @@ Part 3 - [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/0
 Part 4 - [Python - Programming Exercise](https://github.com/unica-isde/isde/blob/master/slides/04-Python-MNIST.pdf) ([Extra1](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-01.pdf)) ([Extra2](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-02.pdf))
 
 Part 5 - [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/slides/05-Python-docstrings.pdf)
+
