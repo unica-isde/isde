@@ -22,4 +22,4 @@ Part 4 - [Python - Programming Exercise](https://github.com/unica-isde/isde/blob
 
 Part 5 - [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/slides/05-Python-docstrings.pdf)
 
-Part 6 - DevOps and Git Basics
+Part 6 - [DevOps and Git Basics](https://github.com/unica-isde/isde/blob/master/slides/06-Git.pdf)
