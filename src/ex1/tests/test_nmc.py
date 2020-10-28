@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from ex1.classifiers import NearestMeanCentroid
+from src.ex1.classifiers import NearestMeanCentroid
 
 
 class TestNMC(unittest.TestCase):
