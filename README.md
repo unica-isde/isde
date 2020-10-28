@@ -23,3 +23,9 @@ Part 4 - [Python - Programming Exercise](https://github.com/unica-isde/isde/blob
 Part 5 - [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/slides/05-Python-docstrings.pdf)
 
 Part 6 - [DevOps and Git Basics](https://github.com/unica-isde/isde/blob/master/slides/06-Git.pdf)
+
+Part 7 - [Git Practical Session](https://github.com/unica-isde/isde/blob/master/slides/07-Git-Practical.pdf)
+
+Part 8 - [Software Testing](https://github.com/unica-isde/isde/blob/master/slides/08-Testing.pdf)
+
+Part 9 - [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/09-Python-Unittest.pdf)
