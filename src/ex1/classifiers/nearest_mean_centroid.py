@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.metrics import pairwise_distances
 
 
-class NearestMeanCentroid():
+class NearestMeanCentroid(object):
     """Class for ..."""
 
     def __init__(self):
