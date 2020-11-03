@@ -29,3 +29,5 @@ Part 7 - [Git Practical Session](https://github.com/unica-isde/isde/blob/master/
 Part 8 - [Software Testing](https://github.com/unica-isde/isde/blob/master/slides/08-Testing.pdf)
 
 Part 9 - [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/09-Python-Unittest.pdf)
+
+Part 10 - [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/10-Scalable-Apps.pdf)
