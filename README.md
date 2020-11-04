@@ -24,12 +24,12 @@ Part 5 - [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/sl
 
 Part 6 - [DevOps and Git Basics](https://github.com/unica-isde/isde/blob/master/slides/06-Git.pdf)
 
-Part 7 - [Git Practical Session](https://github.com/unica-isde/isde/blob/master/slides/07-Git-Practical.pdf)
+Part 7 - [Git Practical Session](https://github.com/unica-isde/isde/blob/master/slides/07-Git-Practical.pdf) ([Repository](https://github.com/unica-isde/isde-git))
 
 Part 8 - [Software Testing](https://github.com/unica-isde/isde/blob/master/slides/08-Testing.pdf)
 
-Part 9 - [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/09-Python-Unittest.pdf)
+Part 9 - [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/09-Python-Unittest.pdf) ([Repository](https://github.com/unica-isde/isde-testing))
 
 Part 10 - [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/10-Scalable-Apps.pdf)
 
-Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf)
+Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf) ([Repository](https://github.com/unica-isde/flask-classification))
