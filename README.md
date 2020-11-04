@@ -31,3 +31,5 @@ Part 8 - [Software Testing](https://github.com/unica-isde/isde/blob/master/slide
 Part 9 - [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/09-Python-Unittest.pdf)
 
 Part 10 - [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/10-Scalable-Apps.pdf)
+
+Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf)
