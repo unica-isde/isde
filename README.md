@@ -12,6 +12,8 @@
 
 **Slides**
 
+**SECTION 1**
+
 Part 1 - [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) ([Video01](https://unica.adobeconnect.com/p0xxb13b1gph/))
 
 Part 2 - [Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/02-Agile.pdf) ([Video02](https://unica.adobeconnect.com/p2j150ov2eyv/))
@@ -35,6 +37,7 @@ Part 10 - [Elements of Scalable Applications](https://github.com/unica-isde/isde
 Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf) ([Web App Repository](https://github.com/unica-isde/flask-classification)) ([Video10](https://unica.adobeconnect.com/pmbiea2dzapo/))
 
 ----
+**SECTION 2**
 
-**PART 2**
+Part 12 - [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/12_P2_introduction.pdf) ([Video12_a](https://unica.adobeconnect.com/puwyzju2zcc4/)) ([Video12_b] (https://unica.adobeconnect.com/p0ylhfkxi7wf/))
 
