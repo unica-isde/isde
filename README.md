@@ -33,3 +33,8 @@ Part 9 - [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides
 Part 10 - [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/10-Scalable-Apps.pdf) ([Video09](https://unica.adobeconnect.com/pbnrcomn3vx0/))
 
 Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf) ([Web App Repository](https://github.com/unica-isde/flask-classification)) ([Video10](https://unica.adobeconnect.com/pmbiea2dzapo/))
+
+----
+
+**PART 2**
+
