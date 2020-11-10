@@ -37,7 +37,7 @@ Part 10 - [Elements of Scalable Applications](https://github.com/unica-isde/isde
 Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf) ([Web App Repository](https://github.com/unica-isde/flask-classification)) ([Video10](https://unica.adobeconnect.com/pmbiea2dzapo/))
 
 ----
-**SECTION 2**
+**SECTION 2** (the code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
 
 Part 12 - [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/12_P2_introduction.pdf) ([Video12_a](https://unica.adobeconnect.com/puwyzju2zcc4/)) ([Video12_b](https://unica.adobeconnect.com/p0ylhfkxi7wf/))
 
