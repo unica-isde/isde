@@ -39,5 +39,7 @@ Part 11 - [Developing a Web Application](https://github.com/unica-isde/isde/blob
 ----
 **SECTION 2** (the code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
 
-Part 12 - [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/12_P2_introduction.pdf) ([Video12_a](https://unica.adobeconnect.com/puwyzju2zcc4/)) ([Video12_b](https://unica.adobeconnect.com/p0ylhfkxi7wf/))
+Part 12 - [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/12_P2_introduction.pdf) ([Video12_a](https://unica.adobeconnect.com/puwyzju2zcc4/)) ([Video12_b](https://unica.adobeconnect.com/p0ylhfkxi7wf/)) ([Video12_c](https://unica.adobeconnect.com/p9eexu4n4mdc/))
+
+
 
