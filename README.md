@@ -33,7 +33,7 @@
 
 (the code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
 
-1. [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/S2_01_introduction.pdf)
+01. [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/S2_01_introduction.pdf)
 2. [Modularity (1)](https://github.com/unica-isde/isde/blob/master/slides/S2_02_modularity_USE_and%20interface.pdf)
 3. [Modularity (2)](https://github.com/unica-isde/isde/blob/master/slides/S2_03_modularity_COMPONENT_OF.pdf)
 4.	[Modules and Packages in Python](https://github.com/unica-isde/isde/blob/master/slides/S2_04_modules_in_Python.pdf)
@@ -72,8 +72,8 @@
 
 - Nov 10, 2020 - Introduction - ([Video\_1.01\_a](https://unica.adobeconnect.com/puwyzju2zcc4/)), ([Video\_1.01\_b](https://unica.adobeconnect.com/p0ylhfkxi7wf/)) 
 - Nov 11, 2020 - Introduction - ([Video\_1.02](https://unica.adobeconnect.com/p9eexu4n4mdc/))
-- Nov 17, 2020 - Modularity ([Video\_1.03\_a](https://web.microsoftstream.com/video/a9de56a2-5d9b-4058-8d98-003cec761d57)),  ([Video\_1.03\_b](https://web.microsoftstream.com/video/a9b532d0-586b-49df-81f1-daac93415c63)), ([Video\_1.03\_c](https://web.microsoftstream.com/video/23eaf1e0-6077-4e98-b8ac-706cdb018d0d))
-- Nov 18, 2020 -  Modularity - Python implementation - Introduction to OOP in Python ([Video\_2.04\_a](https://web.microsoftstream.com/video/d5fa215d-49cc-49f6-8352-ff4eeed13260)), ([Video\_2.04\_b](https://web.microsoftstream.com/video/63eec57a-e0bb-48dd-b1c0-bf3467e46a0d)), ([Video\_2.04\_c](https://web.microsoftstream.com/video/80669343-79da-4d80-9784-39be5b7d05a4))
+- Nov 17, 2020 - Modularity - ([Video\_1.03\_a](https://web.microsoftstream.com/video/a9de56a2-5d9b-4058-8d98-003cec761d57)),  ([Video\_1.03\_b](https://web.microsoftstream.com/video/a9b532d0-586b-49df-81f1-daac93415c63)), ([Video\_1.03\_c](https://web.microsoftstream.com/video/23eaf1e0-6077-4e98-b8ac-706cdb018d0d))
+- Nov 18, 2020 -  Modularity - Python implementation - Introduction to OOP in Python - ([Video\_2.04\_a](https://web.microsoftstream.com/video/d5fa215d-49cc-49f6-8352-ff4eeed13260)), ([Video\_2.04\_b](https://web.microsoftstream.com/video/63eec57a-e0bb-48dd-b1c0-bf3467e46a0d)), ([Video\_2.04\_c](https://web.microsoftstream.com/video/80669343-79da-4d80-9784-39be5b7d05a4))
 - Nov 24, 2020 - Introduction to OOP in Python
 
 
