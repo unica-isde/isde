@@ -12,8 +12,9 @@
 
 [**Slides**](https://github.com/unica-isde/isde/blob/master/slides)
 
+---
 
-SECTION 1
+**SECTION 1**
 
 (code in src)
 
@@ -39,7 +40,7 @@ Lecture10: Nov 04, 2020 - Web Application Development (Maura Pintor) - https://u
 
 ---
 
-SECTION 2
+**SECTION 2**
 
 (code in src2)
 
