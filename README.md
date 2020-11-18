@@ -31,9 +31,9 @@
 ----
 **SECTION 2** 
 
-(the code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
+(The code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
 
-01. [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/S2_01_introduction.pdf)
+1. [Introduction - divide and conquer](https://github.com/unica-isde/isde/blob/master/slides/S2_01_introduction.pdf)
 2. [Modularity (1)](https://github.com/unica-isde/isde/blob/master/slides/S2_02_modularity_USE_and%20interface.pdf)
 3. [Modularity (2)](https://github.com/unica-isde/isde/blob/master/slides/S2_03_modularity_COMPONENT_OF.pdf)
 4.	[Modules and Packages in Python](https://github.com/unica-isde/isde/blob/master/slides/S2_04_modules_in_Python.pdf)
