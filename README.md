@@ -9,12 +9,8 @@
 
 **Website**: https://unica-isde.github.io/
 
-
----
-
-## SLIDES
-
-**SECTION 1**
+## Slides
+**Part I (Instructor: Prof. Battista Biggio)**
 
 1. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) 
 2. [Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/02-Agile.pdf) 
@@ -28,8 +24,7 @@
 10. [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/10-Scalable-Apps.pdf) 
 11. [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/11-Web-Dev.pdf) ([Web App Repository](https://github.com/unica-isde/flask-classification)) 
 
-----
-**SECTION 2** 
+**Part II (Instructor: Prof. Luca Didaci)**
 
 (The code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
 
@@ -40,17 +35,9 @@
 5. [Introduction to OOP in Python (1)](https://github.com/unica-isde/isde/blob/master/slides/S2_05_intro_OOP_1.pdf)
 
 
----
 
-
-
-## VIDEOLECTURES
-
-
-
-**SECTION 1**
-
-(code in src)
+## Videolectures
+**Part I (Instructor: Prof. Battista Biggio)**
 
 - Oct 06, 2020 - Introduction - ([Video\_1.01](https://unica.adobeconnect.com/p0xxb13b1gph/))
 - Oct 07, 2020 - Plan-driven and Agile Software Development - ([Video\_1.02](https://unica.adobeconnect.com/p2j150ov2eyv/)
@@ -63,12 +50,7 @@
 - Nov 03, 2020 - Python Programming, Git Practical Session, Scalable Applications - ([Video\_1.09](https://unica.adobeconnect.com/pbnrcomn3vx0/))
 - Nov 04, 2020 - Web Application Development (Maura Pintor) - ([Video\_1.10](https://unica.adobeconnect.com/pmbiea2dzapo/))
 
----
-
-**SECTION 2**
-
-(The code is in [src2](https://github.com/unica-isde/isde/tree/master/src2/) )
-
+**Part II (Instructor: Prof. Luca Didaci)**
 
 - Nov 10, 2020 - Introduction - ([Video\_1.01\_a](https://unica.adobeconnect.com/puwyzju2zcc4/)), ([Video\_1.01\_b](https://unica.adobeconnect.com/p0ylhfkxi7wf/)) 
 - Nov 11, 2020 - Introduction - ([Video\_1.02](https://unica.adobeconnect.com/p9eexu4n4mdc/))
