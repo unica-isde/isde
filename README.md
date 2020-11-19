@@ -40,7 +40,7 @@
 **Part I (Instructor: Prof. Battista Biggio)**
 
 - Oct 06, 2020 - Introduction - ([Video\_1.01](https://unica.adobeconnect.com/p0xxb13b1gph/))
-- Oct 07, 2020 - Plan-driven and Agile Software Development - ([Video\_1.02](https://unica.adobeconnect.com/p2j150ov2eyv/)
+- Oct 07, 2020 - Plan-driven and Agile Software Development - ([Video\_1.02](https://unica.adobeconnect.com/p2j150ov2eyv/))
 - Oct 13, 2020 - Python Basics - ([Video\_1.03](https://unica.adobeconnect.com/px6rqgmx1e59/))
 - Oct 14, 2020 - Python Programming - ([Video\_1.04](https://unica.adobeconnect.com/pr55end4e4y9/))
 - Oct 20, 2020 - Python Programming - ([Video\_1.05](https://unica.adobeconnect.com/p91ip2rje0qc/))
