@@ -33,6 +33,7 @@
 3. [Modularity (2)](https://github.com/unica-isde/isde/blob/master/slides/S2_03_modularity_COMPONENT_OF.pdf)
 4.	[Modules and Packages in Python](https://github.com/unica-isde/isde/blob/master/slides/S2_04_modules_in_Python.pdf)
 5. [Introduction to OOP in Python (1)](https://github.com/unica-isde/isde/blob/master/slides/S2_05_intro_OOP_1.pdf)
+6. [Introduction to OOP in Python (2)](https://github.com/unica-isde/isde/blob/master/slides/S2_06_intro_OOP_2.pdf)
 
 
 
