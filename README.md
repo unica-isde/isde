@@ -56,7 +56,16 @@
 - Nov 11, 2020 - Introduction - ([Video\_1.02\_a](https://unica.adobeconnect.com/p9eexu4n4mdc/))
 - Nov 17, 2020 - Modularity - ([Video\_1.03\_a](https://web.microsoftstream.com/video/a9de56a2-5d9b-4058-8d98-003cec761d57)),  ([Video\_1.03\_b](https://web.microsoftstream.com/video/a9b532d0-586b-49df-81f1-daac93415c63)), ([Video\_1.03\_c](https://web.microsoftstream.com/video/23eaf1e0-6077-4e98-b8ac-706cdb018d0d))
 - Nov 18, 2020 -  Modularity - Python implementation - Introduction to OOP in Python - ([Video\_2.04\_a](https://web.microsoftstream.com/video/d5fa215d-49cc-49f6-8352-ff4eeed13260)), ([Video\_2.04\_b](https://web.microsoftstream.com/video/63eec57a-e0bb-48dd-b1c0-bf3467e46a0d)), ([Video\_2.04\_c](https://web.microsoftstream.com/video/80669343-79da-4d80-9784-39be5b7d05a4))
-- Nov 24, 2020 - Introduction to OOP in Python
+- Nov 24, 2020 - Introduction to OOP in Python. ([Video\_2.05\_a](https://web.microsoftstream.com/video/e8d2196b-63c8-43d0-8a73-7227bcc44c18)), ([Video\_2.05\_b](https://web.microsoftstream.com/video/3af790f7-7d9a-4a64-b39d-5b5fcd5894a9)), ([Video\_2.05\_c]( https://web.microsoftstream.com/video/26ac219f-ede1-4522-a2e0-8745f9fa7130))
+<!--
+- Nov 25, 2020 - Introduction to OOP in Python. ([Video\_2.06\_a](https)), ([Video\_2.06\_b](https:)), ([Video\_2.06\_c]( https://))
+- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+-->
+
 
 
 
