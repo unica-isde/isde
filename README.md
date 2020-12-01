@@ -66,13 +66,18 @@
 - Nov 18, 2020 -  Modularity - Python implementation - Introduction to OOP in Python - ([Video\_2.04\_a](https://web.microsoftstream.com/video/d5fa215d-49cc-49f6-8352-ff4eeed13260)), ([Video\_2.04\_b](https://web.microsoftstream.com/video/63eec57a-e0bb-48dd-b1c0-bf3467e46a0d)), ([Video\_2.04\_c](https://web.microsoftstream.com/video/80669343-79da-4d80-9784-39be5b7d05a4))
 - Nov 24, 2020 - Introduction to OOP in Python. ([Video\_2.05\_a](https://web.microsoftstream.com/video/e8d2196b-63c8-43d0-8a73-7227bcc44c18)), ([Video\_2.05\_b](https://web.microsoftstream.com/video/3af790f7-7d9a-4a64-b39d-5b5fcd5894a9)), ([Video\_2.05\_c]( https://web.microsoftstream.com/video/26ac219f-ede1-4522-a2e0-8745f9fa7130))
 - Nov 25, 2020 - Introduction to OOP in Python. ([Video\_2.06\_a](https://web.microsoftstream.com/video/37b12d48-6ea0-43b6-ae48-855dc9949b71)), ([Video\_2.06\_b](https://web.microsoftstream.com/video/04c15bbd-4e5d-424b-9b87-ab60431b7bd6))
+- Dec 1, 2020 - Introduction to OOP in Python. ([Video\_2.07](https://web.microsoftstream.com/video/9b5e1929-a60d-42cc-9b0c-12a3d86f0185))
+
+
+**EXERCISES - TUTORING (Instructor: Eng. Sara Concas)**
+
+- Dec 1, 2020 ([Video\_T.01](https://web.microsoftstream.com/video/f6ed0dba-9a61-4ad4-9d8b-48cb09cb0e0c))
+
 
 <!--
-- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
-- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
-- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
-- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
-- Nov xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+)
+- Dec xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
+
 -->
 
 
