@@ -69,7 +69,7 @@
 - Dec 1, 2020 - Introduction to OOP in Python. ([Video\_2.07](https://web.microsoftstream.com/video/9b5e1929-a60d-42cc-9b0c-12a3d86f0185))
 
 
-**EXERCISES - TUTORING (Instructor: Eng. Sara Concas)**
+**EXERCISES - TUTORING (Instructor: Sara Concas)**
 
 - Dec 1, 2020 ([Video\_T.01](https://web.microsoftstream.com/video/f6ed0dba-9a61-4ad4-9d8b-48cb09cb0e0c))
 
