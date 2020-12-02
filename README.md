@@ -67,6 +67,8 @@
 - Nov 24, 2020 - Introduction to OOP in Python. ([Video\_2.05\_a](https://web.microsoftstream.com/video/e8d2196b-63c8-43d0-8a73-7227bcc44c18)), ([Video\_2.05\_b](https://web.microsoftstream.com/video/3af790f7-7d9a-4a64-b39d-5b5fcd5894a9)), ([Video\_2.05\_c]( https://web.microsoftstream.com/video/26ac219f-ede1-4522-a2e0-8745f9fa7130))
 - Nov 25, 2020 - Introduction to OOP in Python. ([Video\_2.06\_a](https://web.microsoftstream.com/video/37b12d48-6ea0-43b6-ae48-855dc9949b71)), ([Video\_2.06\_b](https://web.microsoftstream.com/video/04c15bbd-4e5d-424b-9b87-ab60431b7bd6))
 - Dec 1, 2020 - Introduction to OOP in Python. ([Video\_2.07](https://web.microsoftstream.com/video/9b5e1929-a60d-42cc-9b0c-12a3d86f0185))
+- Dec 2, 2020 - Duuble dispatch e lookup table. ([Video\_2.08\_a](https://web.microsoftstream.com/video/2a84f183-6e57-4204-8f12-f1dabaac8d61)), ([Video\_2.08\_b](https://web.microsoftstream.com/video/7ab2e59d-8d99-406e-b9ff-bdbb097f9d76)), ([Video\_2.08\_c]( https://web.microsoftstream.com/video/c77de285-b475-4939-994f-434f8f0dcc3c))
+
 
 
 **EXERCISES - TUTORING (Instructor: Sara Concas)**
