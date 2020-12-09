@@ -34,6 +34,10 @@
 4.	[Modules and Packages in Python](https://github.com/unica-isde/isde/blob/master/slides/S2_04_modules_in_Python.pdf)
 5. [Introduction to OOP in Python (1)](https://github.com/unica-isde/isde/blob/master/slides/S2_05_intro_OOP_1.pdf)
 6. [Introduction to OOP in Python (2)](https://github.com/unica-isde/isde/blob/master/slides/S2_06_intro_OOP_2.pdf)
+7. [Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/S2_07_Design Patterns.pdf)
+8. [Double Dispatch](https://github.com/unica-isde/isde/blob/master/slides/S2_08_dispatch.pdf)
+9. [State Design Pattern (in progress)](https://github.com/unica-isde/isde/blob/master/slides/S2_08_dispatch.pdf)
+
 <!--
 7. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
 8. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
