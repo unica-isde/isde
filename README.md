@@ -39,15 +39,6 @@
 9. [State Design Pattern](https://github.com/unica-isde/isde/blob/master/slides/S2_09_state_design_pattern.pdf)
 10. [Strategy Design Pattern](https://github.com/unica-isde/isde/blob/master/slides/S2_10_Strategy_design_pattern.pdf)
 
-<!--
-7. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
-8. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
-9. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
-10. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
-11. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
-
-
--->
 
 ## Videolectures
 **Part I (Instructor: Prof. Battista Biggio)**
@@ -75,6 +66,8 @@
 - Dec 2, 2020 - Double dispatch and lookup table. ([Video\_2.08\_a](https://web.microsoftstream.com/video/2a84f183-6e57-4204-8f12-f1dabaac8d61)), ([Video\_2.08\_b](https://web.microsoftstream.com/video/7ab2e59d-8d99-406e-b9ff-bdbb097f9d76)), ([Video\_2.08\_c]( https://web.microsoftstream.com/video/c77de285-b475-4939-994f-434f8f0dcc3c))
 - Dec 9, 2020 - State design pattern. ([Video\_2.09\_a](https://web.microsoftstream.com/video/5c602a8d-ace5-4ae6-9c2f-61894d1d803e)), ([Video\_2.09\_b](https://web.microsoftstream.com/video/8c2a7ae9-377d-49ba-bcb1-de470634e890))
 - Dec 15, 2020 - State and strategy design patterns. ([Video\_2.10\_a](https://web.microsoftstream.com/video/9155e0d6-0fa1-44f8-bf5e-c34876fc4e05)), ([Video\_2.10\_b](https://web.microsoftstream.com/video/326697b8-6660-4291-b311-d0af5b88318e))
+
+
 <!-- - Dec 16, 2020 - Strategy and Observer design patterns. ([Video\_2.11\_a](.     )), ([Video\_2.11\_b](.   ))  -->  
 
 
@@ -84,11 +77,6 @@
 - Dec 1, 2020 ([Video\_T.01](https://web.microsoftstream.com/video/f6ed0dba-9a61-4ad4-9d8b-48cb09cb0e0c))
 
 
-<!--
-)
-- Dec xx, 2020 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx. ([Video\_2.0x\_a](https)), ([Video\_2.0x\_b](https:)), ([Video\_2.0x\_c]( https://))
-
--->
 
 
 
