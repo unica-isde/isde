@@ -36,7 +36,8 @@
 6. [Introduction to OOP in Python (2)](https://github.com/unica-isde/isde/blob/master/slides/S2_06_intro_OOP_2.pdf)
 7. [Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/S2_07_Design_Patterns.pdf)
 8. [Double Dispatch](https://github.com/unica-isde/isde/blob/master/slides/S2_08_dispatch.pdf)
-9. [State Design Pattern (in progress)](https://github.com/unica-isde/isde/blob/master/slides/S2_09_state_design_pattern.pdf)
+9. [State Design Pattern](https://github.com/unica-isde/isde/blob/master/slides/S2_09_state_design_pattern.pdf)
+10. [Strategy Design Pattern](https://github.com/unica-isde/isde/blob/master/slides/S2_10_Strategy_design_pattern.pdf)
 
 <!--
 7. [xxx)](https://github.com/unica-isde/isde/blob/master/slides/S2_xxxx.pdf)
