@@ -67,7 +67,7 @@
 - Dec 2, 2020 - Double dispatch and lookup table. ([Video\_2.08\_a](https://web.microsoftstream.com/video/2a84f183-6e57-4204-8f12-f1dabaac8d61)), ([Video\_2.08\_b](https://web.microsoftstream.com/video/7ab2e59d-8d99-406e-b9ff-bdbb097f9d76)), ([Video\_2.08\_c]( https://web.microsoftstream.com/video/c77de285-b475-4939-994f-434f8f0dcc3c))
 - Dec 9, 2020 - State design pattern. ([Video\_2.09\_a](https://web.microsoftstream.com/video/5c602a8d-ace5-4ae6-9c2f-61894d1d803e)), ([Video\_2.09\_b](https://web.microsoftstream.com/video/8c2a7ae9-377d-49ba-bcb1-de470634e890))
 - Dec 15, 2020 - State and strategy design patterns. ([Video\_2.10\_a](https://web.microsoftstream.com/video/9155e0d6-0fa1-44f8-bf5e-c34876fc4e05)), ([Video\_2.10\_b](https://web.microsoftstream.com/video/326697b8-6660-4291-b311-d0af5b88318e))
-- Dec 16, 2020 - Strategy and Observer design patterns. ([Video\_2.11\_a](https://web.microsoftstream.com/video/553bd9fb-dd6d-4e08-8e5d-0070103269b7)), ([Video\_2.11\_b](https://web.microsoftstream.com/video/eb53ec4a-cffb-4f44-89bf-f6edf3c6363e)) 
+- Dec 16, 2020 - Strategy, Observer and Builder design patterns. ([Video\_2.11\_a](https://web.microsoftstream.com/video/553bd9fb-dd6d-4e08-8e5d-0070103269b7)), ([Video\_2.11\_b](https://web.microsoftstream.com/video/eb53ec4a-cffb-4f44-89bf-f6edf3c6363e)) 
 
  
 
