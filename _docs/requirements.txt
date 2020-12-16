@@ -6,4 +6,4 @@ ipython
 pandoc
 nbsphinx
 nbsphinx-link
-git+git://github.com/proycon/sphinx-to-github#egg=sphinx-to-github
+git+git://github.com/proycon/sphinx-to-github#egg=sphinxtogithub
