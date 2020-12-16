@@ -69,7 +69,7 @@
 - Dec 15, 2020 - State and strategy design patterns. ([Video\_2.10\_a](https://web.microsoftstream.com/video/9155e0d6-0fa1-44f8-bf5e-c34876fc4e05)), ([Video\_2.10\_b](https://web.microsoftstream.com/video/326697b8-6660-4291-b311-d0af5b88318e))
 - Dec 16, 2020 - Strategy and Observer design patterns. ([Video\_2.11\_a](https://web.microsoftstream.com/video/553bd9fb-dd6d-4e08-8e5d-0070103269b7)), ([Video\_2.11\_b](https://web.microsoftstream.com/video/eb53ec4a-cffb-4f44-89bf-f6edf3c6363e)) 
 
-
+ 
 
 **EXERCISES - TUTORING (Instructor: Sara Concas)**
 
