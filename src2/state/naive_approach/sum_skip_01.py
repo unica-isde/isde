@@ -57,15 +57,16 @@ def sum_skip_el3(nums, el_to_skip):
 # ------------------------------------------
 # 4
 
+# attention, there is a bug! can you find it?
 
 def sum_skip_el4(nums, el_to_skip):
     len_nums = len(nums)
     tmp_nums = [0] + nums
-    
-    sum_val=sum([tmp_nums[i+1]
+
+    sum_val = sum([tmp_nums[i + 1]
                    for i in range(len_nums)
                    if tmp_nums[i] != el_to_skip and tmp_nums[i + 1] != el_to_skip])
-    
+
     return sum_val
 
 
