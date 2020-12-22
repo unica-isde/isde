@@ -74,8 +74,8 @@
 **EXERCISES - TUTORING (Instructor: Sara Concas)**
 
 - Dec 1, 2020 ([Video\_T.01](https://web.microsoftstream.com/video/f6ed0dba-9a61-4ad4-9d8b-48cb09cb0e0c))
-
-
+- Dec 18, 2020 ([Video\_T.02](https://web.microsoftstream.com/video/af369630-e783-4541-94b9-883cb5c4633e))
+- Dec 22, 2020 ([Video\_T.03](https://web.microsoftstream.com/video/623e27c8-eb28-497c-b2b9-bd2c7f45782b))
 
 
 
