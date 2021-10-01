@@ -13,15 +13,15 @@
 **Part I (Instructor: Prof. Battista Biggio)**
 
 1. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) 
-2. Plan-driven and Agile Software Development
-3. Python Basics
-4. Python - Programming Exercise
-5. Python - Docstrings
-6. DevOps and Git Basics
-7. Git Practical Session
-9. Python Unittest
-10. Elements of Scalable Applications
-11. Developing a Web Application
+2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf) ([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
+3. Python - Programming Exercise
+4. Python - Docstrings
+5. Python Unittest
+6. Plan-driven and Agile Software Development
+7. DevOps and Git Basics
+8. Git Practical Session
+9. Elements of Scalable Applications
+10. Developing a Web Application
 
 **Part II (Instructor: Prof. Luca Didaci)**
 
