@@ -14,7 +14,7 @@
 
 1. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) 
 2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf) ([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
-3. Python - Programming Exercise
+3. [Python - Programming Exercise](https://github.com/unica-isde/isde/blob/master/slides/04-Python-MNIST.pdf) ([Python Notebook 2](https://github.com/unica-isde/isde/blob/master/notebooks/lab02.ipynb)) ([Extra1](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-01.pdf)) ([Extra2](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-02.pdf)) ([Solutions](https://github.com/unica-isde/isde/tree/master/src)) 
 4. Python - Docstrings
 5. Python Unittest
 6. Plan-driven and Agile Software Development
