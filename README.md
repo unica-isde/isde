@@ -37,8 +37,3 @@
 10. Strategy Design Pattern
 11. Observer Design Pattern
 12. Builder Design Pattern
-
-## Videolectures
-**Part I (Instructor: Prof. Battista Biggio)**
-
-- Sept. 28, 2021 - Introduction - ([Video\_1.01](https://unicadrsi.sharepoint.com/:v:/r/sites/MagistraleComputerEngineeringCybersecurityandAI1/Documenti%20condivisi/Industrial%20Software%20Development/Recordings/ISDe%20-%2027.9.2021-20210928_113559-Registrazione%20della%20riunione.mp4?csf=1&web=1&e=eGd6If))
