@@ -9,6 +9,11 @@
 
 **Website**: https://unica-isde.github.io/
 
+**Lectures**
+- Tuesday, 11-14, room N_3B (Lidia)
+- Thursday, 15-17, room N_3A (Lidia)
+- Friday, 9-12, room I_ID 
+
 ## Slides
 **Part I (Instructor: Prof. Battista Biggio)**
 
