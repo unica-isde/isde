@@ -1,12 +1,11 @@
-from abc import ABCMeta, abstractmethod, abstractproperty
+from abc import ABC, abstractmethod, abstractproperty
 
 
-class DataLoader(object):
+class DataLoader(ABC):
     """
     Abstract class for implementing data loaders,
     returning data X and their class labels y
     """
-    __metaclass__ = ABCMeta
 
     @abstractmethod
     def load_data(self):
