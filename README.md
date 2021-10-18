@@ -21,10 +21,10 @@
 2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf) ([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
 3. [Python - Programming Exercise](https://github.com/unica-isde/isde/blob/master/slides/03-Python-MNIST.pdf) ([Python Notebook 2](https://github.com/unica-isde/isde/blob/master/notebooks/lab02.ipynb)) ([Extra1](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-01.pdf)) ([Extra2](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-02.pdf)) ([Solutions](https://github.com/unica-isde/isde/tree/master/src)) 
 4. [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/slides/04-Python-docstrings.pdf) 
-5. Python Unittest
-6. Plan-driven and Agile Software Development
-7. DevOps and Git Basics
-8. Git Practical Session
+5. [Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/05-Agile.pdf) 
+6. [Software Testing](https://github.com/unica-isde/isde/blob/master/slides/06-Testing.pdf) 
+7. [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/09-Python-Unittest.pdf) ([Testing Repository](https://github.com/unica-isde/isde-testing))
+8. Git Basics and Practical Session
 9. Elements of Scalable Applications
 10. Developing a Web Application
 
