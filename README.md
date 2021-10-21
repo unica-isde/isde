@@ -24,7 +24,7 @@
 5. [Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/05-Agile.pdf) 
 6. [Software Testing](https://github.com/unica-isde/isde/blob/master/slides/06-Testing.pdf) 
 7. [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/07-Python-Unittest.pdf) ([Testing Repository](https://github.com/unica-isde/isde-testing))
-8. Git Basics and Practical Session
+8. [Git Basics and Practical Session](https://github.com/unica-isde/isde/blob/master/slides/08-Git.pdf) ([Git Repository](https://github.com/unica-isde/isde-git))
 9. Elements of Scalable Applications
 10. Developing a Web Application
 
