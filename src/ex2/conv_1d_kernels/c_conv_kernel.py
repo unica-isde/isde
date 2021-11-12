@@ -1,11 +1,9 @@
-from abc import ABCMeta, abstractmethod
+from abc import ABC, abstractmethod
 import numpy as np
 from copy import deepcopy
 
 
-class CConvKernel(object):
-
-    # __metaclass__ = ABCMeta
+class CConvKernel(ABC):
 
     def __init__(self, kernel_size=3):
         self._mask = None
