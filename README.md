@@ -30,6 +30,8 @@
 
 **Part II (Instructor: Prof. Luca Didaci)**
 
+[Slides and code for PART 2](https://github.com/unica-isde/isde/blob/master/slides/Slides_code(part2).zip) 
+
 1. Introduction - divide and conquer
 2. Modularity (1)
 3. Modularity (2)
@@ -41,4 +43,4 @@
 9. State Design Pattern
 10. Strategy Design Pattern
 11. Observer Design Pattern
-12. Builder Design Pattern
+
