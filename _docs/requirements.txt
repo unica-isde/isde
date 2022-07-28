@@ -1,9 +1,0 @@
-sphinx >= 2.1.2, < 3
-sphinx_rtd_theme
-m2r
-matplotlib
-ipython
-pandoc
-nbsphinx
-nbsphinx-link
-git+git://github.com/proycon/sphinx-to-github#egg=sphinxtogithub
