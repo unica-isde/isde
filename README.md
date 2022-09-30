@@ -1,5 +1,7 @@
 ## Industrial Software Development
-**Academic Year 2021-2022**
+**Academic Year 2022-2023**
+
+> The course will start on Oct. 7, 2022.
 
 **Instructors:** Prof. Luca Didaci, Prof. Battista Biggio
 
@@ -10,9 +12,9 @@
 **Website**: https://unica-isde.github.io/
 
 **Lectures**
-- Tuesday, 11-14, room N_3B (Lidia)
-- Thursday, 15-17, room N_3A (Lidia)
-- Friday, 9-12, room I_ID 
+- Tuesday, 10-12, room N_3B (Lidia), building N
+- Wednesday, 11-14, room N_3B (Lidia), building N
+- Friday, 9-12, room I_IB (ex BA), building I 
 
 ## Slides
 **Part I (Instructor: Prof. Battista Biggio)**
