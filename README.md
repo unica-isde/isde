@@ -1,7 +1,7 @@
 ## Industrial Software Development
 **Academic Year 2022-2023**
 
-> The course will start on Oct. 7, 2022.
+> The course will start on Oct. 7, 2022. [Teams link.](https://teams.microsoft.com/l/team/19%3au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Luca Didaci, Prof. Battista Biggio
 
