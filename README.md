@@ -13,7 +13,7 @@
 
 **Lectures**
 - Tuesday, 9-12, room N_3B (Lidia), building N
-- Wednesday, 11-14, room N_3B (Lidia), building N
+- Wednesday, 11-13, room N_3B (Lidia), building N
 - Friday, 9-12, room I_IB (ex BA), building I 
 
 ## Slides
