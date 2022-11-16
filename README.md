@@ -16,6 +16,9 @@
 - Wednesday, 11-13, room N_3B (Lidia), building N
 - Friday, 9-12, room I_IB (ex BA), building I 
 
+**Tutoring**
+- Thursday 15-18, room I_IB (ex BA), building I
+
 ## Slides
 **Part I (Instructor: Prof. Battista Biggio)**
 
@@ -46,3 +49,7 @@
 10. Strategy Design Pattern
 11. Observer Design Pattern
 
+**Tutor**
+
+1. Python basics
+2. Advanced python
