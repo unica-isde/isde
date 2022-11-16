@@ -5,6 +5,8 @@
 
 **Instructors:** Prof. Luca Didaci, Prof. Battista Biggio
 
+**Tutor:** Maura Pintor
+
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
 
 **GitHub repository for course material:** [https://github.com/unica-isde/isde](https://github.com/unica-isde/isde)
@@ -31,7 +33,7 @@
 7. [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/07-Python-Unittest.pdf) ([Testing Repository](https://github.com/unica-isde/isde-testing))
 8. [Git Basics and Practical Session](https://github.com/unica-isde/isde/blob/master/slides/08-Git.pdf) ([Git Repository](https://github.com/unica-isde/isde-git))
 9. [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/09-Scalable-Apps.pdf)
-10. Developing a Web Application
+10. [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/10-Web-servers.pdf)
 
 **Part II (Instructor: Prof. Luca Didaci)**
 
@@ -53,3 +55,4 @@
 
 1. [Python basics](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_01.pdf)
 2. [Advanced python](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_02.pdf)
+
