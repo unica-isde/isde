@@ -51,5 +51,5 @@
 
 **Tutor**
 
-1. Python basics
-2. Advanced python
+1. [Python basics](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_01.pdf)
+2. [Advanced python](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_02.pdf)
