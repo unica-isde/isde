@@ -1,7 +1,7 @@
 ## Industrial Software Development
-**Academic Year 2022-2023**
+**Academic Year 2023-2024**
 
-> The course will start on Oct. 7, 2022. [Teams link.](https://teams.microsoft.com/l/team/19%3au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
+> The course will start on Oct. 3, 2023. [Teams link.](https://teams.microsoft.com/l/team/19%3au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Luca Didaci, Prof. Battista Biggio
 
@@ -14,12 +14,9 @@
 **Website**: https://unica-isde.github.io/
 
 **Lectures**
-- Tuesday, 9-12, room N_3B (Lidia), building N
-- Wednesday, 11-13, room N_3B (Lidia), building N
-- Friday, 9-12, room I_IB (ex BA), building I 
-
-**Tutoring**
-- Thursday 15-18, room I_IB (ex BA), building I
+- Tuesday, 11-14, room N_3B (Lidia), building N
+- Wednesday, 11-14, room I_IB (ex BA), building I 
+- Friday, 9-12, room I_ID (ex AN), building I 
 
 ## Slides
 **Part I (Instructor: Prof. Battista Biggio)**
