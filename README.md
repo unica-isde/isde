@@ -34,7 +34,7 @@
 
 **Part II (Instructor: Prof. Luca Didaci)**
 
-[Slides and code for PART 2 -  being updated](https://unicadrsi-my.sharepoint.com/:f:/g/personal/luca_didaci_unica_it/Eqbs4lUs6LJIrrtQ1qUgK-gBUgR6gqFDoB7CayRwiRGFyw?e=2lq7m4) 
+[Slides and code for PART 2 -  being updated](https://unicadrsi.sharepoint.com/:f:/s/MagistraleComputerEngineeringCybersecurityandAI1/EgAL-PGaxxRMrDVuHyCNfa4BgkPoEhv2FLkYkQYKMcTmfg?e=XxiCHl) 
 
 1. Introduction - divide and conquer
 2. Modularity (1)
