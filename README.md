@@ -11,7 +11,7 @@
 
 **GitHub repository for course material:** [https://github.com/unica-isde/isde](https://github.com/unica-isde/isde)
 
-**Website**: https://unica-isde.github.io/
+**Website**: https://unica-isde.github.io/isde/
 
 **Lectures**
 - Tuesday, 11-14, room N_3B (Lidia), building N
