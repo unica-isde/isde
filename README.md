@@ -44,11 +44,11 @@
 
 (being updated:)
 
-*. Design Patterns
-*. Double Dispatch
-*. State Design Pattern
-*. Strategy Design Pattern
-*. Observer Design Pattern
+* Design Patterns
+* Double Dispatch
+* State Design Pattern
+* Strategy Design Pattern
+* Observer Design Pattern
 
 **Tutor**
 
