@@ -43,6 +43,7 @@
 5. Introduction to OOP in Python (2)
 
 (being updated:)
+
 *. Design Patterns
 *. Double Dispatch
 *. State Design Pattern
