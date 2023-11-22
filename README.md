@@ -34,19 +34,20 @@
 
 **Part II (Instructor: Prof. Luca Didaci)**
 
-[Slides and code for PART 2 -  being updated](https://unicadrsi.sharepoint.com/:f:/s/MagistraleComputerEngineeringCybersecurityandAI1/EgAL-PGaxxRMrDVuHyCNfa4BgkPoEhv2FLkYkQYKMcTmfg?e=XxiCHl) 
+[Slides and code for PART 2 -](https://unicadrsi.sharepoint.com/:f:/s/MagistraleComputerEngineeringCybersecurityandAI1/EgAL-PGaxxRMrDVuHyCNfa4BgkPoEhv2FLkYkQYKMcTmfg?e=XxiCHl) 
 
-1. Introduction - divide and conquer
-2. Modularity (1)
-3. Modularity (2)
-4. Modules and Packages in Python
-5. Introduction to OOP in Python (1)
-6. Introduction to OOP in Python (2)
-7. Design Patterns
-8. Double Dispatch
-9. State Design Pattern
-10. Strategy Design Pattern
-11. Observer Design Pattern
+1. Introduction 
+2. Modularity 
+3. Modules and Packages in Python
+4. Introduction to OOP in Python (1)
+5. Introduction to OOP in Python (2)
+
+(being updated:)
+*. Design Patterns
+*. Double Dispatch
+*. State Design Pattern
+*. Strategy Design Pattern
+*. Observer Design Pattern
 
 **Tutor**
 
