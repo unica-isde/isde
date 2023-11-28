@@ -41,14 +41,21 @@
 3. Modules and Packages in Python
 4. Introduction to OOP in Python (1)
 5. Introduction to OOP in Python (2)
+6. Double Dispatch
 
 (being updated:)
 
 * Design Patterns
-* Double Dispatch
 * State Design Pattern
 * Strategy Design Pattern
 * Observer Design Pattern
+
+**SEMINARS**
+
+* 21/11/2023 - Secure Programming - Prof. REGANO 
+* 28/11/2023 - Software Protection in the Man at the End scenario - Prof. REGANO
+* 01/12/2023 - RUST; Elixir; DevSecOps concepts applied to a real project - PLURIBUS
+* 13/12/2023 - MONEYFARM
 
 **Tutor**
 
