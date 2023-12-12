@@ -42,13 +42,16 @@
 4. Introduction to OOP in Python (1)
 5. Introduction to OOP in Python (2)
 6. Double Dispatch
+7. Design Patterns
+8. Singleton Design Pattern
+9. Strategy Design Pattern
 
 (being updated:)
-
-* Design Patterns
 * State Design Pattern
-* Strategy Design Pattern
 * Observer Design Pattern
+* Factory Design Pattern
+
+(being updated:)
 
 **SEMINARS**
 
