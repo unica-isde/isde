@@ -36,6 +36,10 @@
 
 [Slides and code for PART 2 -](https://unicadrsi.sharepoint.com/:f:/s/MagistraleComputerEngineeringCybersecurityandAI1/EgAL-PGaxxRMrDVuHyCNfa4BgkPoEhv2FLkYkQYKMcTmfg?e=XxiCHl) 
 
+<!--
+For your convenience, I have supplied markdown sources for certain PDF slides. If you need to extract code stubs used in class (rather than copying them manually), it may be more straightforward from markdown than from the PDF format.
+-->
+
 1. Introduction 
 2. Modularity 
 3. Modules and Packages in Python
