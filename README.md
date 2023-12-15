@@ -49,13 +49,12 @@ For your convenience, I have supplied markdown sources for certain PDF slides. I
 7. Design Patterns
 8. Singleton Design Pattern
 9. Strategy Design Pattern
+10. State Design Pattern
+11. Difference between Strategy and State Design Pattern
+12. Observer Design Pattern
+13. Creational Patterns (OPTIONAL)
 
-(being updated:)
-* State Design Pattern
-* Observer Design Pattern
-* Factory Design Pattern
 
-(being updated:)
 
 **SEMINARS**
 
