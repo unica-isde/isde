@@ -1,11 +1,9 @@
 ## Industrial Software Development
-**Academic Year 2023-2024**
+**Academic Year 2024-2025**
 
-> The course will start on Oct. 3, 2023. [Teams link.](https://teams.microsoft.com/l/team/19%3au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
+> The course will start on Sept. 30, 2024. [Teams link.](https://teams.microsoft.com/l/team/19%3Au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
-**Instructors:** Prof. Luca Didaci, Prof. Battista Biggio
-
-**Tutor:** Maura Pintor
+**Instructors:** Prof. Battista Biggio, Dr. Angelo Sotgiu, Dr. Leonardo Regano.
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
 
@@ -14,12 +12,12 @@
 **Website**: https://unica-isde.github.io/isde/
 
 **Lectures**
-- Tuesday, 11-14, room N_3B (Lidia), building N
-- Wednesday, 11-14, room I_IB (ex BA), building I 
-- Friday, 9-12, room I_ID (ex AN), building I 
+- Monday, 9-11, room N_3B (Lidia), building N
+- Thursday, 9-11, room N_3B (Lidia), building N
+- Friday, 15-18, room I_IB (ex BA), building I
 
 ## Slides
-**Part I (Instructor: Prof. Battista Biggio)**
+**Part I (Instructor: Prof. Battista Biggio, 30 hours)**
 
 1. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) 
 2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf) ([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
@@ -32,13 +30,7 @@
 9. [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/09-Scalable-Apps.pdf)
 10. [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/10-Web-servers.pdf)
 
-**Part II (Instructor: Prof. Luca Didaci)**
-
-[Slides and code for PART 2 -](https://unicadrsi.sharepoint.com/:f:/s/MagistraleComputerEngineeringCybersecurityandAI1/EgAL-PGaxxRMrDVuHyCNfa4BgkPoEhv2FLkYkQYKMcTmfg?e=XxiCHl) 
-
-<!--
-For your convenience, I have supplied markdown sources for certain PDF slides. If you need to extract code stubs used in class (rather than copying them manually), it may be more straightforward from markdown than from the PDF format.
--->
+**Part II (Instructor: Dr. Angelo Sotgiu, 30 hours)**
 
 1. Introduction 
 2. Modularity 
@@ -52,18 +44,15 @@ For your convenience, I have supplied markdown sources for certain PDF slides. I
 10. State Design Pattern
 11. Difference between Strategy and State Design Pattern
 12. Observer Design Pattern
-13. Creational Patterns (OPTIONAL)
+13. Creational Patterns (optional)
 
-
+**Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
+* TBD
 
 **SEMINARS**
+* TBD
 
-* 21/11/2023 - Secure Programming - Prof. REGANO 
-* 28/11/2023 - Software Protection in the Man at the End scenario - Prof. REGANO
-* 01/12/2023 - RUST; Elixir; DevSecOps concepts applied to a real project - PLURIBUS
-* 13/12/2023 - MONEYFARM
-
-**Tutor**
+**Tutor (2023/2024)**
 
 1. [Python basics](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_01.pdf)
 2. [Advanced python](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_02.pdf)
