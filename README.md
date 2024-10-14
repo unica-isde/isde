@@ -49,8 +49,8 @@
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
 
-**SEMINARS**
-* TBD
+**Industry Seminars**
+* Friday Dec. 6, 2024 - Pluribus One - TBA
 
 **Tutor (2023/2024)**
 
