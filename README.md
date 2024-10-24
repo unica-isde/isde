@@ -20,7 +20,7 @@
 **Part I (Instructor: Prof. Battista Biggio, 30 hours)**
 
 1. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) 
-2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf)([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
+2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf) ([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
 3. [Python - Programming Exercise](https://github.com/unica-isde/isde/blob/master/slides/03-Python-MNIST.pdf) ([Python Notebook 2](https://github.com/unica-isde/isde/blob/master/notebooks/lab02.ipynb)) ([Extra1](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-01.pdf)) ([Extra2](https://github.com/unica-isde/isde/blob/master/programming-exercises/ISDe-programming-skills-02.pdf)) ([Solutions](https://github.com/unica-isde/isde/tree/master/src)) 
 4. [Python - Docstrings](https://github.com/unica-isde/isde/blob/master/slides/04-Python-docstrings.pdf) 
 5. [Plan-driven and Agile Software Development](https://github.com/unica-isde/isde/blob/master/slides/05-Agile.pdf)
@@ -28,7 +28,6 @@
 7. [Python Unittest](https://github.com/unica-isde/isde/blob/master/slides/07-Python-Unittest.pdf) ([Testing Repository](https://github.com/unica-isde/isde-testing))
 8. [Git Basics and Practical Session](https://github.com/unica-isde/isde/blob/master/slides/08-Git.pdf) ([Git Repository](https://github.com/unica-isde/isde-git))
 9. [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/09-Scalable-Apps.pdf)
-10. [Developing a Web Application](https://github.com/unica-isde/isde/blob/master/slides/10-Web-servers.pdf)
 
 **Part II (Instructor: Dr. Angelo Sotgiu, 30 hours)**
 
