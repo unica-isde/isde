@@ -32,7 +32,7 @@
 **Part II (Instructor: Dr. Angelo Sotgiu, 30 hours)**
 
 10. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part_2_Introduction_Coding_Guidelines_and_Best_Practices.pdf) 
-11. [Modularity - incomplete](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity %28incomplete%29.pdf)
+11. [Modularity (incomplete)](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity_(incomplete%).pdf)
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
