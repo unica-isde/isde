@@ -31,19 +31,8 @@
 
 **Part II (Instructor: Dr. Angelo Sotgiu, 30 hours)**
 
-1. Introduction 
-2. Modularity 
-3. Modules and Packages in Python
-4. Introduction to OOP in Python (1)
-5. Introduction to OOP in Python (2)
-6. Double Dispatch
-7. Design Patterns
-8. Singleton Design Pattern
-9. Strategy Design Pattern
-10. State Design Pattern
-11. Difference between Strategy and State Design Pattern
-12. Observer Design Pattern
-13. Creational Patterns (optional)
+10. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part_2_Introduction_Coding_Guidelines_and_Best_Practices.pdf) 
+11. [Modularity (incomplete)](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity (incomplete).pdf)
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
