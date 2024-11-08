@@ -35,7 +35,7 @@
 11. [Modularity](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity.pdf)
 12. [Modules in Python](https://github.com/unica-isde/isde/blob/master/slides/12-Modules_in_Python.pdf)
 13. [OOP - Introduction](https://github.com/unica-isde/isde/blob/master/slides/13-OOP_Introduction.pdf)
-14. [OOP - Inheritance (incomplete)](https://github.com/unica-isde/isde/blob/master/slides/14-OOP_Inheritance_incomplete.pdf)
+14. [OOP - Inheritance](https://github.com/unica-isde/isde/blob/master/slides/14-OOP_Inheritance.pdf)
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
