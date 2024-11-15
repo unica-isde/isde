@@ -37,6 +37,8 @@
 13. [OOP - Introduction](https://github.com/unica-isde/isde/blob/master/slides/13-OOP_Introduction.pdf)
 14. [OOP - Inheritance](https://github.com/unica-isde/isde/blob/master/slides/14-OOP_Inheritance.pdf)
 15. [OOP - Advanced](https://github.com/unica-isde/isde/blob/master/slides/15-OOP_Advanced.pdf)
+16. [Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/16-Design_Patterns.pdf)
+17. [Singleton](https://github.com/unica-isde/isde/blob/master/slides/17-Singleton.pdf)
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
