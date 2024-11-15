@@ -39,6 +39,7 @@
 15. [OOP - Advanced](https://github.com/unica-isde/isde/blob/master/slides/15-OOP_Advanced.pdf)
 16. [Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/16-Design_Patterns.pdf)
 17. [Singleton](https://github.com/unica-isde/isde/blob/master/slides/17-Singleton.pdf)
+18. [Strategy](https://github.com/unica-isde/isde/blob/master/slides/18-Strategy.pdf)
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
