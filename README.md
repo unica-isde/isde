@@ -41,6 +41,8 @@
 17. [Singleton](https://github.com/unica-isde/isde/blob/master/slides/17-Singleton.pdf)
 18. [Strategy](https://github.com/unica-isde/isde/blob/master/slides/18-Strategy.pdf)
 
+Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
+
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
 * TBD
 
