@@ -42,6 +42,8 @@
 18. [Strategy](https://github.com/unica-isde/isde/blob/master/slides/18-Strategy.pdf)
 19. [State](https://github.com/unica-isde/isde/blob/master/slides/19-State.pdf)
 20. [State vs Strategy](https://github.com/unica-isde/isde/blob/master/slides/20-State_vs_Strategy.pdf)
+21. [Observer](https://github.com/unica-isde/isde/blob/master/slides/21-Observer.pdf)
+22. [Other Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/22-Other_Design_Patterns.pdf)
 
 Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
 
