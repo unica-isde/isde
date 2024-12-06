@@ -52,7 +52,8 @@ Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
 * TBD
 
 **Industry Seminars**
-* Friday Dec. 6, 2024 - Pluribus One - TBA
+* Friday Dec. 6, 2024, h15-18 - Pluribus One - Engineering a cybersecurity solution: challenges & lessons learned
+* Thursday Dec. 12, 2024, h9-11 - MoneyFarm - TBA
 
 **Tutor (2023/2024)**
 
