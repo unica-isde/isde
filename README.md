@@ -49,7 +49,9 @@
 Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
-* TBD
+24. [Secure programming](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Secure%20software.pdf)
+25. [Software protection](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Software%20protection.pdf)
+26. [GO Language Tutorial](https://go.dev/tour/welcome/1)
 
 **Industry Seminars**
 * Friday Dec. 6, 2024, h15-18 - Pluribus One - Engineering a cybersecurity solution: challenges & lessons learned
