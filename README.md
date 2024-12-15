@@ -49,6 +49,7 @@
 Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
 
 **Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
+
 24. [Secure programming](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Secure%20software.pdf)
 25. [Software protection](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Software%20protection.pdf)
 26. [GO Language Tutorial](https://go.dev/tour/welcome/1)
