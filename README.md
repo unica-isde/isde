@@ -1,7 +1,7 @@
 ## Industrial Software Development
-**Academic Year 2024-2025**
+**Academic Year 2025-2026**
 
-> The course will start on Sept. 30, 2024. [Teams link.](https://teams.microsoft.com/l/team/19%3Au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
+> The course will start on Oct. 1, 2025. [Teams link.](https://teams.microsoft.com/l/team/19%3Au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Battista Biggio, Dr. Angelo Sotgiu, Dr. Leonardo Regano.
 
@@ -12,12 +12,12 @@
 **Website**: https://unica-isde.github.io/isde/
 
 **Lectures**
-- Monday, 9-11, room N_3B (Lidia), building N
-- Thursday, 9-11, room N_3B (Lidia), building N
-- Friday, 15-18, room I_IB (ex BA), building I
+- Monday, 9.30-11.30, room I_IB (ex BA), building I
+- Wednesday, 15.00-18.00, room I_IB (ex BA), building I
+- Friday, 10.30-13.30, room I_IB (ex BA), building I
 
 ## Slides
-**Part I (Instructor: Prof. Battista Biggio, 30 hours)**
+**Part I (Instructor: Prof. Battista Biggio)**
 
 1. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/01-Introduction.pdf) 
 2. [Python Basics](https://github.com/unica-isde/isde/blob/master/slides/02-Python.pdf) ([Python Notebook 1](https://github.com/unica-isde/isde/blob/master/notebooks/lab01.ipynb)) 
@@ -29,7 +29,7 @@
 8. [Git Basics and Practical Session](https://github.com/unica-isde/isde/blob/master/slides/08-Git.pdf) ([Git Repository](https://github.com/unica-isde/isde-git))
 9. [Elements of Scalable Applications](https://github.com/unica-isde/isde/blob/master/slides/09-Scalable-Apps.pdf)
 
-**Part II (Instructor: Dr. Angelo Sotgiu, 30 hours)**
+**Part II (Instructor: Dr. Angelo Sotgiu)**
 
 10. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part_2_Introduction_Coding_Guidelines_and_Best_Practices.pdf) 
 11. [Modularity](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity.pdf)
@@ -48,15 +48,12 @@
 
 Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
 
-**Part III (Instructor: Dr. Leonardo Regano, 10 hours)**
+**Part III (Instructor: Dr. Leonardo Regano)**
 
 24. [Secure programming](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Secure%20software.pdf)
 25. [Software protection](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Software%20protection.pdf)
 26. [GO Language Tutorial](https://go.dev/tour/welcome/1)
 
-**Industry Seminars**
-* Friday Dec. 6, 2024, h15-18 - Pluribus One - Engineering a cybersecurity solution: challenges & lessons learned
-* Thursday Dec. 19, 2024, h9-11 - MoneyFarm - DevOps
 
 **Tutor (2023/2024)**
 
