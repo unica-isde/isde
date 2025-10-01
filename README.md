@@ -12,9 +12,9 @@
 **Website**: https://unica-isde.github.io/isde/
 
 **Lectures**
-- Monday, 9.30-11.30, room I_IB (ex BA), building I
-- Wednesday, 15.00-18.00, room I_IB (ex BA), building I
-- Friday, 10.30-13.30, room I_IB (ex BA), building I
+- Monday, 9.30-11.30, room D, building B
+- Wednesday, 15.00-18.00, room D, building B
+- Friday, 10.30-13.30, room D, building B
 
 ## Slides
 **Part I (Instructor: Prof. Battista Biggio)**
