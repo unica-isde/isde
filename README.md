@@ -31,28 +31,32 @@
 
 **Part II (Instructor: Dr. Angelo Sotgiu)**
 
-10. [Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part_2_Introduction_Coding_Guidelines_and_Best_Practices.pdf) 
+10. [Coding Guidelines and Best Practices](https://github.com/unica-isde/isde/blob/master/slides/10-Coding_Guidelines_and_Best_Practices.pdf) 
 11. [Modularity](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity.pdf)
 12. [Modules in Python](https://github.com/unica-isde/isde/blob/master/slides/12-Modules_in_Python.pdf)
 13. [OOP - Introduction](https://github.com/unica-isde/isde/blob/master/slides/13-OOP_Introduction.pdf)
 14. [OOP - Inheritance](https://github.com/unica-isde/isde/blob/master/slides/14-OOP_Inheritance.pdf)
 15. [OOP - Advanced](https://github.com/unica-isde/isde/blob/master/slides/15-OOP_Advanced.pdf)
 16. [Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/16-Design_Patterns.pdf)
-17. [Singleton](https://github.com/unica-isde/isde/blob/master/slides/17-Singleton.pdf)
-18. [Strategy](https://github.com/unica-isde/isde/blob/master/slides/18-Strategy.pdf)
-19. [State](https://github.com/unica-isde/isde/blob/master/slides/19-State.pdf)
-20. [State vs Strategy](https://github.com/unica-isde/isde/blob/master/slides/20-State_vs_Strategy.pdf)
+17. [Strategy](https://github.com/unica-isde/isde/blob/master/slides/17-Strategy.pdf)
+18. [State](https://github.com/unica-isde/isde/blob/master/slides/18-State.pdf)
+19. [State vs Strategy](https://github.com/unica-isde/isde/blob/master/slides/19-State_vs_Strategy.pdf)
+20. [Singleton](https://github.com/unica-isde/isde/blob/master/slides/20-Singleton.pdf)
 21. [Observer](https://github.com/unica-isde/isde/blob/master/slides/21-Observer.pdf)
 22. [Other Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/22-Other_Design_Patterns.pdf)
-23. [Web Development](https://github.com/unica-isde/isde/blob/master/slides/23-Web_Development.pdf)
+23. [Lab: Image Classifier - Part 1](https://github.com/unica-isde/isde/blob/master/slides/23-Image_Classifier_Part_1.pdf) 
+24. [Lab: Image Classifier - Part 2](https://github.com/unica-isde/isde/blob/master/slides/24-Image_Classifier_Part_2.pdf)
+25. [Lab: Image Classifier - Part 3](https://github.com/unica-isde/isde/blob/master/slides/25-Image_Classifier_Part_3.pdf)
+26. [Lab: LLM ChatBot](https://github.com/unica-isde/isde/blob/master/slides/26-LLM_Chatbot.pdf)
+27. [AI-assisted Development](https://github.com/unica-isde/isde/blob/master/slides/27-AI-assisted_Development.pdf)
 
 Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
 
 **Part III (Instructor: Dr. Leonardo Regano)**
 
-24. [Secure programming](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Secure%20software.pdf)
-25. [Software protection](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Software%20protection.pdf)
-26. [GO Language Tutorial](https://go.dev/tour/welcome/1)
+28. [Secure programming](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Secure%20software.pdf)
+29. [Software protection](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Software%20protection.pdf)
+30. [GO Language Tutorial](https://go.dev/tour/welcome/1)
 
 
 **Tutor (2023/2024)**
