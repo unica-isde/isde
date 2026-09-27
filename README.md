@@ -1,9 +1,9 @@
 ## Industrial Software Development
-**Academic Year 2025-2026**
+**Academic Year 2026-2027**
 
-> The course will start on Oct. 1, 2025. [Teams link.](https://teams.microsoft.com/l/team/19%3Au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
+> The course will start on Sept. 28, 2026. [Teams link.](https://teams.microsoft.com/l/team/19%3Au9YoM2FdMHYkS9pv9s9cAd9dcatDbmLHXCbZhna7VsI1%40thread.tacv2/conversations?groupId=c5a0a9f3-2ceb-4824-9935-1e26472579fa&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
-**Instructors:** Prof. Battista Biggio, Dr. Angelo Sotgiu, Dr. Leonardo Regano.
+**Instructors:** Prof. Battista Biggio, Dr. Angelo Sotgiu.
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
 
@@ -14,7 +14,7 @@
 **Lectures**
 - Monday, 9.30-11.30, room D, building B
 - Wednesday, 15.00-18.00, room D, building B
-- Friday, 10.30-13.30, room D, building B
+- Thursday, 11.30-13.30, room D, building B
 
 ## Slides
 **Part I (Instructor: Prof. Battista Biggio)**
@@ -31,35 +31,12 @@
 
 **Part II (Instructor: Dr. Angelo Sotgiu)**
 
-10. [Coding Guidelines and Best Practices](https://github.com/unica-isde/isde/blob/master/slides/10-Coding_Guidelines_and_Best_Practices.pdf) 
-11. [Modularity](https://github.com/unica-isde/isde/blob/master/slides/11-Modularity.pdf)
-12. [Modules in Python](https://github.com/unica-isde/isde/blob/master/slides/12-Modules_in_Python.pdf)
-13. [OOP - Introduction](https://github.com/unica-isde/isde/blob/master/slides/13-OOP_Introduction.pdf)
-14. [OOP - Inheritance](https://github.com/unica-isde/isde/blob/master/slides/14-OOP_Inheritance.pdf)
-15. [OOP - Advanced](https://github.com/unica-isde/isde/blob/master/slides/15-OOP_Advanced.pdf)
-16. [Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/16-Design_Patterns.pdf)
-17. [Strategy](https://github.com/unica-isde/isde/blob/master/slides/17-Strategy.pdf)
-18. [State](https://github.com/unica-isde/isde/blob/master/slides/18-State.pdf)
-19. [State vs Strategy](https://github.com/unica-isde/isde/blob/master/slides/19-State_vs_Strategy.pdf)
-20. [Singleton](https://github.com/unica-isde/isde/blob/master/slides/20-Singleton.pdf)
-21. [Observer](https://github.com/unica-isde/isde/blob/master/slides/21-Observer.pdf)
-22. [Other Design Patterns](https://github.com/unica-isde/isde/blob/master/slides/22-Other_Design_Patterns.pdf)
-23. [Lab: Image Classifier - Part 1](https://github.com/unica-isde/isde/blob/master/slides/23-Image_Classifier_Part_1.pdf) 
-24. [Lab: Image Classifier - Part 2](https://github.com/unica-isde/isde/blob/master/slides/24-Image_Classifier_Part_2.pdf)
-25. [Lab: Image Classifier - Part 3](https://github.com/unica-isde/isde/blob/master/slides/25-Image_Classifier_Part_3.pdf)
-26. [Lab: LLM ChatBot](https://github.com/unica-isde/isde/blob/master/slides/26-LLM_Chatbot.pdf)
-27. [AI-assisted Development](https://github.com/unica-isde/isde/blob/master/slides/27-AI-assisted_Development.pdf)
-
-Thanks to prof. Luca Didaci for kindly allowing the reuse of his material.
-
-**Part III (Instructor: Dr. Leonardo Regano)**
-
-28. [Secure programming](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Secure%20software.pdf)
-29. [Software protection](https://github.com/unica-isde/isde/blob/master/seminars/Regano-Software%20protection.pdf)
-30. [GO Language Tutorial](https://go.dev/tour/welcome/1)
+Course materials will be added as the course progresses.
 
 
-**Tutor (2023/2024)**
+**Tutor**
+
+Tutoring sessions will start as soon as schedules are agreed with the tutor.
 
 1. [Python basics](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_01.pdf)
 2. [Advanced python](https://github.com/unica-isde/isde/blob/master/tutor/isde_tutoring_02.pdf)
