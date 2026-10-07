@@ -32,7 +32,7 @@
 **Part II (Instructor: Dr. Angelo Sotgiu)**
 
 10. [Part B Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part-B-Introduction.pdf)
-
+11. [Code Quality and Refactoring (not complete)](https://github.com/unica-isde/isde/blob/master/slides/11-Code-Quality-and-Refactoring.pdf)
 
 **Tutor**
 
