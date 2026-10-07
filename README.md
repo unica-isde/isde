@@ -31,7 +31,7 @@
 
 **Part II (Instructor: Dr. Angelo Sotgiu)**
 
-Course materials will be added as the course progresses.
+10. [Part B Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part-B-Introduction.pdf)
 
 
 **Tutor**
