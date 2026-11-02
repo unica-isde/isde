@@ -34,6 +34,7 @@
 10. [Part B Introduction](https://github.com/unica-isde/isde/blob/master/slides/10-Part-B-Introduction.pdf)
 11. [Code Quality and Refactoring](https://github.com/unica-isde/isde/blob/master/slides/11-Code-Quality-and-Refactoring.pdf)
 12. [Modularity and Python Modules](https://github.com/unica-isde/isde/blob/master/slides/12-Modularity-and-Python-Modules.pdf)
+13. [Environments, Packaging and Design Patterns.pdf](https://github.com/unica-isde/isde/blob/master/slides/13-Environments-Packaging-and-Design-Patterns.pdf)
 
 **Tutor**
 
