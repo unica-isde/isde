@@ -36,6 +36,7 @@
 12. [Modularity and Python Modules](https://github.com/unica-isde/isde/blob/master/slides/12-Modularity-and-Python-Modules.pdf)
 13. [Environments, Packaging and Design Patterns.pdf](https://github.com/unica-isde/isde/blob/master/slides/13-Environments-Packaging-and-Design-Patterns.pdf)
 14. [Documentation and Quality Gates](https://github.com/unica-isde/isde/blob/master/slides/14-Documentation-and-Quality-Gates.pdf)
+15. [Advanced Git Operations](https://github.com/unica-isde/isde/blob/master/slides/15-Advanced-Git-Operations.pdf)
 
 **Tutor**
 
