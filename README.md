@@ -38,6 +38,8 @@
 14. [Documentation and Quality Gates](https://github.com/unica-isde/isde/blob/master/slides/14-Documentation-and-Quality-Gates.pdf)
 15. [Advanced Git Operations](https://github.com/unica-isde/isde/blob/master/slides/15-Advanced-Git-Operations.pdf)
 16. [pytest in Practice](https://github.com/unica-isde/isde/blob/master/slides/16-pytest-in-Practice.pdf)
+17. [TDD and Property-Based Testing](https://github.com/unica-isde/isde/blob/master/slides/17-TDD-and-Property-Based-Testing)
+18. [Continuous Integration and Delivery](https://github.com/unica-isde/isde/blob/master/slides/18-Continuous-Integration-and-Delivery)
 
 **Tutor**
 
