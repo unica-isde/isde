@@ -43,6 +43,7 @@
 19. [Build the CI Pipeline](https://github.com/unica-isde/isde/blob/master/slides/19-Build-the-CI-Pipeline.pdf)
 20. [Configuration, Environments and Secrets](https://github.com/unica-isde/isde/blob/master/slides/20-Configuration-Environments-and-Secrets.pdf)
 21. [Containers, Deployment and Observability](https://github.com/unica-isde/isde/blob/master/slides/21-Containers-Deployment-and-Observability.pdf)
+22. [Architecture in Practice](https://github.com/unica-isde/isde/blob/master/slides/22-Architecture-in-Practice.pdf)
 
 **Tutor**
 
